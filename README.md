@@ -4,10 +4,15 @@ Download latest reverse_engineering tools
 # Linux
 
 Open terminal:
-Allow execution permissions
+Eventually allow execution permissions
 
 ```
 chmod +x script.sh
+```
+
+Run script.sh
+```
+sh script.sh
 ```
 
 
